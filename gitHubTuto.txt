@@ -2,7 +2,7 @@ SDP log ugopisaw@hotmail.com
 https://github.com/BBK-SDP-2015-upisa01
 SDP log usoghisa@hotmail.com
 https://github.com/usoghisa/bbkGit
-----------------------jjjNNNN
+----------------------jjjNNNN222
 
   git config --global user.email "usoghisa@hotmail.com"
   git config --global user.name "usoghisa"
@@ -22,7 +22,7 @@ CMD git pull https://github.com/usoghisa/t3 // pull remote change
 
 VIP keep original .git folder and read me file 
 
----Intelly j
+---Intelly jcd
 create new project call same name as remote repo
 make sure proj loc is I:\\t1
 ...
