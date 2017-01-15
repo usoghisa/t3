@@ -2,7 +2,7 @@ SDP log ugopisaw@hotmail.com
 https://github.com/BBK-SDP-2015-upisa01
 SDP log usoghisa@hotmail.com
 https://github.com/usoghisa/bbkGit
-----------------------
+----------------------jjj
 
   git config --global user.email "usoghisa@hotmail.com"
   git config --global user.name "usoghisa"
