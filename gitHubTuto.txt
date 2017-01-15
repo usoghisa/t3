@@ -2,7 +2,13 @@ SDP log ugopisaw@hotmail.com
 https://github.com/BBK-SDP-2015-upisa01
 SDP log usoghisa@hotmail.com
 https://github.com/usoghisa/bbkGit
-----------------------jjjNNNN222jjj
+
+CMD SESSION VAR
+C:\Users\lenovo>SET Path=%PATH%;C:\Program Files\Git\cmd
+
+ADD ENVIROMENT Var
+go to control pannel\system\advace setting\env var\system vaar clic path edit and add
+;C:\Program Files (x86)\scala\bin
 
   git config --global user.email "usoghisa@hotmail.com"
   git config --global user.name "usoghisa"
