@@ -2,6 +2,7 @@ SDP log ugopisaw@hotmail.com
 https://github.com/BBK-SDP-2015-upisa01
 SDP log usoghisa@hotmail.com
 https://github.com/usoghisa/bbkGit
+https://github.com/usoghisa/uuu1617
 
 CMD SESSION VAR
 C:\Users\lenovo>SET Path=%PATH%;C:\Program Files\Git\cmd
@@ -17,8 +18,8 @@ go to control pannel\system\advace setting\env var\system vaar clic path edit an
 from CMD line
 make repo in github/ tick ini readme/ copy adress https://github.com/usoghisa/t3
 CMD cd to workdir/git clone https://github.com/usoghisa/t3
-add file folder to local workdir
-CMD git status // see diff from remote if
+add file folder to local workdir 
+CMD git status // see diff from remote if 
 CMD git add -A // add all
 CMD git commit -m "update file"// commit change localy
 CMD git push // push remote
@@ -26,14 +27,14 @@ CMD git push // push remote
 
 CMD git pull https://github.com/usoghisa/t3 // pull remote change
 
-VIP keep original .git folder and read me file
+VIP keep original .git folder and read me file 
 
 ---Intelly jcd
 create new project call same name as remote repo
 make sure proj loc is I:\\t1
 ...
 RClic project/ new module ... name w1 / mod file loc
-use vcs arrow to commit and push
+use vcs arrow to commit and push  
 
 _______________________________________________
 __________________
@@ -48,12 +49,12 @@ lauch git-bash.bat
 > git clone https://github.com/usoghisa/bbkGit // create folder in ugo call bbkGit
 > cd bbkGit // go inside clone
 > git status  // to see if any new file or chage have been made with no commit
-> git add uuu2.txt // if new file has been created localy after cloning //git add -A //to all file
+> git add uuu2.txt // if new file has been created localy after cloning //git add -A //to all file 
 > git commit -m "update...." // to commit changes to loca repository
 > git add uuu.txt // if file is been update localy if problem occur delete index.lock in .git
 > git commit -m "update...." // to commit chaged files local repo
-> git push // to update github file
-> git pull // to dowload changes localy
+> git push // to update github file  
+> git pull // to dowload changes localy 
 // add folder by > git add <folder-name> and commit
 // multyline comment just use > git commit // type comment, use the esc button :wq to back
 
@@ -62,12 +63,8 @@ lauch git-bash.bat
 
 git add t1/
 >git push --force https://github.com/usoghisa/t1
--- conf name
-    git config --global user.name "Your Name"
-    git config --global user.email you@example.com
-	After doing this, you may fix the identity used for this commit with:
 
-    git commit --amend --reset-author
+
 
 
 __________________older
@@ -75,13 +72,13 @@ __________________older
 instal gitHub / make repositori at https://github.com/usoghisa/bbkGit
 open bash > git clone https://github.com/usr/my-repository
 > ls // show dir
-> cd workingDirectory
-modify ugo.java in eclipse place in workingDirectory
+> cd workingDirectory 
+modify ugo.java in eclipse place in workingDirectory 
 > git add ugo.java
 > git commit -m "first change msg"
 > git push -u origin master // fist time need to use  -u origin master ask user pass
 > git pull // pull overwrite local file wit git hub
 if someone else change file use..
-> git stash //to overwrite local
+> git stash //to overwrite local  
 
 
