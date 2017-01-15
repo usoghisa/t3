@@ -3,7 +3,6 @@ https://github.com/BBK-SDP-2015-upisa01
 SDP log usoghisa@hotmail.com
 https://github.com/usoghisa/bbkGit
 https://github.com/usoghisa/uuu1617
-LLLLLLLL
 
 CMD SETY SESSION VAR
 C:\Users\lenovo>SET Path=%PATH%;C:\Program Files\Git\cmd
@@ -70,6 +69,7 @@ open .gitignore or create one type .idea/ to eslude folder .idea
 
 git add t1/
 >git push --force https://github.com/usoghisa/t1
+
 
 
 
