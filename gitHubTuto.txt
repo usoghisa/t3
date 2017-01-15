@@ -5,13 +5,15 @@ https://github.com/usoghisa/bbkGit
 https://github.com/usoghisa/uuu1617
 
 
-CMD SESSION VAR
+CMD SETY SESSION VAR
 C:\Users\lenovo>SET Path=%PATH%;C:\Program Files\Git\cmd
 
 ADD ENVIROMENT Var
 go to control pannel\system\advace setting\env var\system vaar clic path edit and add
 ;C:\Program Files (x86)\scala\bin
 
+
+SET NAME EMAIL
   git config --global user.email "usoghisa@hotmail.com"
   git config --global user.name "usoghisa"
 
@@ -30,7 +32,7 @@ CMD git pull https://github.com/usoghisa/t3 // pull remote change
 
 VIP keep original .git folder and read me file
 
----Intelly jcd
+---Intelly j cd
 create new project call same name as remote repo
 make sure proj loc is I:\\t1
 ...
@@ -60,7 +62,11 @@ lauch git-bash.bat
 // multyline comment just use > git commit // type comment, use the esc button :wq to back
 
 
+PROBLEM sink remote local
+move .git folder readme out if any .idea Out of working folder clone remote some were and add .git and read me
 
+IGNORE FILE
+open .gitignore or create one type .idea/ to eslude folder .idea
 
 git add t1/
 >git push --force https://github.com/usoghisa/t1
