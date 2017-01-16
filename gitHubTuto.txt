@@ -11,6 +11,7 @@ ooo
 
 git commit -a -m "message"
 
+
 CMD SETY SESSION VAR
 C:\Users\lenovo>SET Path=%PATH%;C:\Program Files\Git\cmd
 
