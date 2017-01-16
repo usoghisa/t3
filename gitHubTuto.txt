@@ -3,11 +3,7 @@ https://github.com/BBK-SDP-2015-upisa01
 SDP log usoghisa@hotmail.com
 https://github.com/usoghisa/bbkGit
 https://github.com/usoghisa/uuu1617
-<<<<<<< HEAD
-uuuu
-=======
-ooo
->>>>>>> 4c3322a27855f7b80c1cd19d167d4e2dbd78017c
+
 
 git commit -a -m "message"
 
