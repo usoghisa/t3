@@ -4,8 +4,8 @@ SDP log usoghisa@hotmail.com
 https://github.com/usoghisa/bbkGit
 https://github.com/usoghisa/uuu1617
 
-
-git commit -a -m "message"
+ADD and COMMIT
+git add -A && git commit -m "comment"
 
 
 CMD SETY SESSION VAR
