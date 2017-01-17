@@ -53,9 +53,16 @@ git pull
 
 // add and commit 
 git add -A && git commit -m "comment"
+
 //from  b1 push else it will push the master version
+
 git push https://github.com/usoghisa/uuu1617
 second user must clone into localy and use git fetch && git checkout b1
+go to github click compare pull req and follow 
+
+go to github click compare pull req
+// to see update merged 
+git pull https://github.com/usoghisa/uuu1617/
 
 
 _______________________________________________
