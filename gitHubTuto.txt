@@ -48,6 +48,9 @@ locally
 git checkout -b b1
 //move back to master
 git checkout master
+// check mast not changed
+git pull
+git checkout b1
 
 // add and commit 
 git add -A && git commit -m "comment"
