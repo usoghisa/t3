@@ -50,11 +50,11 @@ git checkout -b b1
 git checkout master
 // check mast not changed
 git pull
-git checkout b1
 
 // add and commit 
 git add -A && git commit -m "comment"
-
+//from  b1 push else it will push the master version
+git push https://github.com/usoghisa/uuu1617
 second user must clone into localy and use git fetch && git checkout b1
 
 
