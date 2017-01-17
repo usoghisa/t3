@@ -44,7 +44,7 @@ use vcs arrow to commit and push
 
 Branching__________________________________
 locally 
-//create branch and move to it
+//create branch  git branch b1 or.. create move
 git checkout -b b1
 //move back to master
 git checkout master
