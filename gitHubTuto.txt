@@ -43,7 +43,7 @@ use vcs arrow to commit and push
 
 
 Branching__________________________________
-locally 
+locally
 //create branch  git branch b1 or.. create move
 git checkout -b b1
 //move back to master
@@ -51,18 +51,22 @@ git checkout master
 // check mast not changed
 git pull
 
-// add and commit 
+// add and commit
 git add -A && git commit -m "comment"
 
 //from  b1 push else it will push the master version
 
 git push https://github.com/usoghisa/uuu1617
 second user must clone into localy and use git fetch && git checkout b1
-go to github click compare pull req and follow 
+
+go to github click compare pull req and follow
 
 go to github click compare pull req
-// to see update merged 
+// to see update merged
 git pull https://github.com/usoghisa/uuu1617/
+// push branch
+git push --set-upstream origin b1
+// if pull donot work...
 
 
 _______________________________________________
