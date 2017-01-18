@@ -65,7 +65,7 @@ go to github click compare pull req
 git pull https://github.com/usoghisa/uuu1617/
 // push branch
 git push --set-upstream origin b1
-
+// if pull donot work...
 
 _______________________________________________
 __________________
