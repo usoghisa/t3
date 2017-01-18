@@ -1,2 +1,3 @@
 loc u2 update
 loc u1 update
+loc u2 update
