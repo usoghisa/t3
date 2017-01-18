@@ -65,7 +65,12 @@ go to github click compare pull req
 git pull https://github.com/usoghisa/uuu1617/
 // push branch
 git push --set-upstream origin b1
-// if pull donot work...
+
+// merge from intelli cmd
+(on branch development)$ git merge master
+(resolve any merge conflicts if there are any)
+git checkout master
+git merge development (there won't be any conflicts now)
 
 _______________________________________________
 __________________
